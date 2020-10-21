@@ -6,11 +6,7 @@ https://www.jianshu.com/p/7a9fbcbb1114
 【js-cookie.js】
 https://www.cnblogs.com/hcxwd/p/7449158.html
 https://www.cnblogs.com/zzz-knight/p/11692362.html
-【jrebel】
-格式:https://jrebel.qekang.com/生成的GUID
-获取:https://www.guidgen.com/
-【资料下载】
-http://www.baizhiedu.xin
+
 【vue项目架构】
 https://blog.csdn.net/xiaolongqinghua/article/details/86689445
 https://www.cnblogs.com/zhangruiqi/p/9062005.html【vue-cli2.0】
@@ -28,8 +24,6 @@ https://blog.csdn.net/Little_Pig_Bug/article/details/82999500
 https://www.jianshu.com/p/29f3e6c78602
 【关闭vue-cli3.0语法检查】
 https://www.cnblogs.com/coder-lzh/p/11894632.html
-【idea 热部署插件 Jrebel】
-https://www.cnblogs.com/jiaqing521/p/12780401.html
 【webpack-merge】
 https://www.npmjs.com/package/webpack-merge
 【vue配置路径别名】
