@@ -19,3 +19,6 @@ http://www.baizhiedu.xin
 https://www.cnblogs.com/jiaqing521/p/12780401.html
 【初始化数据库的两种方式】
 https://blog.csdn.net/u012326462/article/details/82080812
+【swagger】
+https://blog.csdn.net/sanyaoxu_2/article/details/80555328
+https://www.jianshu.com/p/eff53172e274
