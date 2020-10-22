@@ -6,6 +6,8 @@ https://blog.csdn.net/zpz_326/article/details/81359061
 https://www.liaoxuefeng.com/wiki/896043488029600/896827951938304
 https://blog.csdn.net/Sunshine_Mr_Sun/article/details/108152848
 https://mp.weixin.qq.com/s/Bf7uVhGiu47uOELjmC5uXQ
+【Git冲突】
+https://www.cnblogs.com/gavincoder/p/9071959.html
 【Iterable和Iterator】
 https://blog.csdn.net/u013277209/article/details/101456447
 https://www.cnblogs.com/litexy/p/9744241.html
@@ -22,3 +24,5 @@ https://blog.csdn.net/u012326462/article/details/82080812
 【swagger】
 https://blog.csdn.net/sanyaoxu_2/article/details/80555328
 https://www.jianshu.com/p/eff53172e274
+【SpringBoot 通过配置禁用swagger】
+https://blog.csdn.net/weixin_37264997/article/details/82762050
