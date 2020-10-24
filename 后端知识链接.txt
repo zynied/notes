@@ -26,3 +26,6 @@ https://blog.csdn.net/sanyaoxu_2/article/details/80555328
 https://www.jianshu.com/p/eff53172e274
 【SpringBoot 通过配置禁用swagger】
 https://blog.csdn.net/weixin_37264997/article/details/82762050
+【maven标签】
+http://www.manongjc.com/article/55974.html
+https://blog.csdn.net/renhuan28/article/details/81203494
