@@ -29,3 +29,8 @@ https://blog.csdn.net/weixin_37264997/article/details/82762050
 【maven标签】
 http://www.manongjc.com/article/55974.html
 https://blog.csdn.net/renhuan28/article/details/81203494
+【maven依赖作用范围】
+https://www.cnblogs.com/zitian246/p/13855882.html
+【maven依赖管理与依赖继承】
+https://blog.csdn.net/qq_31558895/article/details/87364603
+https://www.cnblogs.com/Lyn4ever/p/12094308.html
