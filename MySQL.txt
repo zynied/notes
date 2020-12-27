@@ -1,2 +1,0 @@
-【Centos7 完全卸载mysql】
-https://www.jianshu.com/p/ef58fb333cd6
