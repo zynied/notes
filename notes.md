@@ -42,12 +42,15 @@
 * 【maven依赖管理与依赖继承】
   * [参考1](https://blog.csdn.net/qq_31558895/article/details/87364603)
   * [参考2](https://www.cnblogs.com/Lyn4ever/p/12094308.html)
-* 解决使用RabbitMQ后报错An unexpected connection driver error occured 的问题
+* 【解决使用RabbitMQ后报错An unexpected connection driver error occured 的问题】
   * [参考](https://www.pianshen.com/article/29091033843/)
 * 【Spring Boot starter和autoconfigure】
   * [参考](https://blog.csdn.net/yeyinglingfeng/article/details/87790700)
 * 【wireshark抓包】
   * [参考](https://www.cnblogs.com/mq0036/p/11187138.html)
+* 【Java 实体映射工具 MapStruct】
+  * [参考1](https://www.jianshu.com/p/3f20ca1a93b0)
+  * [参考2](https://blog.csdn.net/zhige_me/article/details/80699784)
 
 
 
